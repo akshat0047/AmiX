@@ -1,2 +1,2 @@
 # AmiX
-Front Add code for AmiXchange
+Front end code for AmiXchange
